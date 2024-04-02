@@ -32,4 +32,4 @@ This script is useful for sequence analysis and retrieval tasks, particularly wh
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD License - see the [LICENSE] file for details.
